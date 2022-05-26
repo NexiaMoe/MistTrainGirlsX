@@ -1,0 +1,2360 @@
+{
+    "r": {
+        "MSceneId": 403999305,
+        "MSceneDetailViewModel": [
+            {
+                "GroupOrder": 50,
+                "ViewOrder": 1,
+                "Name": "Putra",
+                "Phrase": "Is he in pain?",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 8,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_044",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 13201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 8,
+                        "FacialExpression": 1,
+                        "EnterAction": 1
+                    },
+                    {
+                        "MCharacterId": 24201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 1,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 21,
+                "ViewOrder": 1,
+                "Name": "Queensway",
+                "Phrase": "Conductor, please over this way!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": 10201,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_021",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 20201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 5,
+                "ViewOrder": 1,
+                "Name": "Vivienne",
+                "Phrase": "Sure seems like it. I was a bit nervous with it being my first time. \nBut it went just like the training we did and it went really well!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 2,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_005",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 13201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 35201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 1,
+                "ViewOrder": 1,
+                "Name": "Queensway",
+                "Phrase": "No remaining opposition. \nSeems like that one was the boss.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 8,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_001",
+                "BackgroundImage": "104902",
+                "BGM": "adv_saintIris",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 10201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 1
+                    },
+                    {
+                        "MCharacterId": 24201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 2,
+                "ViewOrder": 1,
+                "Name": "Yoshino",
+                "Phrase": "And would you look at that, the Mist is clearing.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 2,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_002",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 10201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 24201,
+                        "Position": 4,
+                        "Action": 1,
+                        "Emotion": 0,
+                        "FacialExpression": 1,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 3,
+                "ViewOrder": 1,
+                "Name": "Paddington",
+                "Phrase": "There are bosses that act as the source of the Phantom Mist. \nBy killing the bosses, you can clear the Mist and stop Mist Monsters from appearing.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_003",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 0,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 4,
+                "ViewOrder": 1,
+                "Name": "Putra",
+                "Phrase": "So if that's the end of that, does that mean our first job went off without a hitch?",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 8,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_004",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 13201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 8,
+                        "FacialExpression": 0,
+                        "EnterAction": 1
+                    },
+                    {
+                        "MCharacterId": 35201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 6,
+                "ViewOrder": 1,
+                "Name": "Putra",
+                "Phrase": "Woohoo! We killed some monsters on our first day on the job!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 8,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_006",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 13201,
+                        "Position": 2,
+                        "Action": 1,
+                        "Emotion": 0,
+                        "FacialExpression": 2,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 35201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 20,
+                "ViewOrder": 1,
+                "Name": "Yakutsk",
+                "Phrase": "Damn it, too late\u2026 \nQueensway! Protect the conductor!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_020",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 20201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 5,
+                        "FacialExpression": 8,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 7,
+                "ViewOrder": 1,
+                "Name": "Queensway",
+                "Phrase": "\u2026",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_007",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 10201,
+                        "Position": 3,
+                        "Action": 3,
+                        "Emotion": 0,
+                        "FacialExpression": 4,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 8,
+                "ViewOrder": 1,
+                "Name": "Paddington",
+                "Phrase": "Queensway? \nWhat's wrong?",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 2,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_008",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 10201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 4,
+                        "EnterAction": 1
+                    },
+                    {
+                        "MCharacterId": 0,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 8,
+                        "FacialExpression": 0,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 9,
+                "ViewOrder": 1,
+                "Name": "Queensway",
+                "Phrase": "For some reason my heart won't stop racing\u2026",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 8,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_009",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 10201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 5,
+                        "FacialExpression": 4,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 0,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 10,
+                "ViewOrder": 1,
+                "Name": "Yoshino",
+                "Phrase": "But I don't notice any other threats?",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 8,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_010",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 24201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 8,
+                        "FacialExpression": 0,
+                        "EnterAction": 1
+                    },
+                    {
+                        "MCharacterId": 35201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 12,
+                "ViewOrder": 1,
+                "Name": "Queensway",
+                "Phrase": "That's just it. The boss we beat was just your run-of-the-mill Mist Monster. \nIt seemed almost like nothing happened, despite it being an urgent call.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 8,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_012",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 10201,
+                        "Position": 2,
+                        "Action": 5,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 1
+                    },
+                    {
+                        "MCharacterId": 0,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 13,
+                "ViewOrder": 1,
+                "Name": "Queensway",
+                "Phrase": "Just like Yakutsk said, there are usually special monsters in randomly appearing Mist. \nAnd yet, this one was just way too ordinary.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 8,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_013",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 10201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 4,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 0,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 22,
+                "ViewOrder": 2,
+                "Name": "Vivienne",
+                "Phrase": "Is everyone alright!? Is anyone hurt!?",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 1,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_022",
+                "BackgroundImage": "104902",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 24201,
+                        "Position": 1,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 1,
+                        "EnterAction": 1
+                    },
+                    {
+                        "MCharacterId": 13201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 1
+                    },
+                    {
+                        "MCharacterId": 35201,
+                        "Position": 5,
+                        "Action": 0,
+                        "Emotion": 5,
+                        "FacialExpression": 4,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 49,
+                "ViewOrder": 1,
+                "Name": "Steel Seeker",
+                "Phrase": "Urghh\u2026grrrr\u2026hnghh?",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 101,
+                        "Position": 3,
+                        "Action": 2,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 48,
+                "ViewOrder": 1,
+                "Name": "Paddington",
+                "Phrase": "So this power of his must be from his bloodline\u2026.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_043",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 0,
+                        "Position": 3,
+                        "Action": 1,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 47,
+                "ViewOrder": 1,
+                "Name": "Yakutsk",
+                "Phrase": "Wh-what is this. \nThis magic is beyond his powers.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 16,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_042",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 20201,
+                        "Position": 1,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 1,
+                        "EnterAction": 1
+                    },
+                    {
+                        "MCharacterId": 10201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 1,
+                        "EnterAction": 1
+                    },
+                    {
+                        "MCharacterId": 35201,
+                        "Position": 5,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 1,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 31,
+                "ViewOrder": 1,
+                "Name": "Steel Seeker",
+                "Phrase": "\u2026",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 101,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 32,
+                "ViewOrder": 1,
+                "Name": "Putra",
+                "Phrase": "Yahhh! This might be too much for us!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 2,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_031",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 35201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 1,
+                        "EnterAction": 1
+                    },
+                    {
+                        "MCharacterId": 13201,
+                        "Position": 4,
+                        "Action": 1,
+                        "Emotion": 0,
+                        "FacialExpression": 1,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 33,
+                "ViewOrder": 1,
+                "Name": "Vivienne",
+                "Phrase": "It seems super strong?",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 8,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_032",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 35201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 5,
+                        "FacialExpression": 4,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 13201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 1,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 34,
+                "ViewOrder": 1,
+                "Name": "Queensway",
+                "Phrase": "Everyone, don't break formation! This enemy is gonna be tough. \nKeeping the Conductor safe is your top priority!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 16,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_033",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 10201,
+                        "Position": 1,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 3
+                    },
+                    {
+                        "MCharacterId": 35201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 1
+                    },
+                    {
+                        "MCharacterId": 13201,
+                        "Position": 5,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 35,
+                "ViewOrder": 1,
+                "Name": "Steel Seeker",
+                "Phrase": "Damn the Mist killers\u2026they must die\u2026 Damned Mist\u2026must die?",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 101,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 9,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 37,
+                "ViewOrder": 1,
+                "Name": "Yakutsk",
+                "Phrase": "Here it comes!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 16,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_034",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 20201,
+                        "Position": 1,
+                        "Action": 1,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 1
+                    },
+                    {
+                        "MCharacterId": 10201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 1,
+                        "EnterAction": 1
+                    },
+                    {
+                        "MCharacterId": 35201,
+                        "Position": 5,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 4,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 22,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "110300",
+                "BGM": "",
+                "SE": "ambience",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 38,
+                "ViewOrder": 1,
+                "Name": "Queensway",
+                "Phrase": "D-damn, it's strong\u2026",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_035",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 20201,
+                        "Position": 1,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 10201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 5,
+                        "FacialExpression": 1,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 35201,
+                        "Position": 5,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 4,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 39,
+                "ViewOrder": 1,
+                "Name": "Yakutsk",
+                "Phrase": "What the hell is this\u2026",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 16,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_036",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 20201,
+                        "Position": 1,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 10201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 1,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 35201,
+                        "Position": 5,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 4,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 40,
+                "ViewOrder": 1,
+                "Name": "Vivienne",
+                "Phrase": "I don't think we can take them on.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 1,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_037",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 20201,
+                        "Position": 1,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 10201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 1,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 35201,
+                        "Position": 5,
+                        "Action": 1,
+                        "Emotion": 0,
+                        "FacialExpression": 4,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 41,
+                "ViewOrder": 1,
+                "Name": "Steel Seeker",
+                "Phrase": "Mist destroyers, damn you\u2026 Must kill\u2026",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 101,
+                        "Position": 3,
+                        "Action": 8,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 42,
+                "ViewOrder": 1,
+                "Name": "Yoshino",
+                "Phrase": "Are they trying to kill the Conductor?",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_038",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 24201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 4,
+                        "FacialExpression": 1,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 43,
+                "ViewOrder": 1,
+                "Name": "Steel Seeker",
+                "Phrase": "I can see beyond the tracks\u2026",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 101,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 44,
+                "ViewOrder": 1,
+                "Name": "Paddington",
+                "Phrase": "I-it's giving off enormous magical energy! \nYou better run, Conductor!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_039",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 0,
+                        "Position": 3,
+                        "Action": 1,
+                        "Emotion": 5,
+                        "FacialExpression": 4,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 45,
+                "ViewOrder": 1,
+                "Name": "Queensway",
+                "Phrase": "We'll hold them back!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_040",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 20201,
+                        "Position": 1,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 1
+                    },
+                    {
+                        "MCharacterId": 10201,
+                        "Position": 3,
+                        "Action": 1,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 1
+                    },
+                    {
+                        "MCharacterId": 35201,
+                        "Position": 5,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 46,
+                "ViewOrder": 1,
+                "Name": "",
+                "Phrase": "",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 0,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "110300",
+                "BGM": "",
+                "SE": "holy",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 46,
+                "ViewOrder": 2,
+                "Name": "Paddington",
+                "Phrase": "Oh, that light\u2026",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_041",
+                "BackgroundImage": "104902",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 0,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 1,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 14,
+                "ViewOrder": 1,
+                "Name": "Paddington",
+                "Phrase": "It sure is a bit weird.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 2,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_014",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 10201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 0,
+                        "Position": 4,
+                        "Action": 5,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 15,
+                "ViewOrder": 1,
+                "Name": "Queensway",
+                "Phrase": "Conductor, we should check this area out a bit more to keep it secure. \nLet's be sure we stay in formation just in case we need to retreat\u2026",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 8,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_015",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 10201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 0,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 11,
+                "ViewOrder": 1,
+                "Name": "Vivienne",
+                "Phrase": "We beat the boss and the Mist is all gone now.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 2,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_011",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 24201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 35201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 17,
+                "ViewOrder": 1,
+                "Name": "Putra",
+                "Phrase": "Huh?",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 8,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_017",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 13201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 5,
+                        "FacialExpression": 1,
+                        "EnterAction": 1
+                    },
+                    {
+                        "MCharacterId": 35201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 1,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 53,
+                "ViewOrder": 1,
+                "Name": "Yakutsk",
+                "Phrase": "We don't have time to waste! \nI don't know why, but we have no chance of winning if we miss our shot!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 8,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_047",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 20201,
+                        "Position": 2,
+                        "Action": 1,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 10201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 52,
+                "ViewOrder": 1,
+                "Name": "Queensway",
+                "Phrase": "And I feel incredibly strong for some reason.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 2,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_046",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 20201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 1
+                    },
+                    {
+                        "MCharacterId": 10201,
+                        "Position": 4,
+                        "Action": 5,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 16,
+                "ViewOrder": 1,
+                "Name": "Yakutsk",
+                "Phrase": "Everyone! Get out of here now!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 1,
+                "VoiceFileName": "e_403999305_016",
+                "BackgroundImage": "",
+                "BGM": "adv_01",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 20201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 29,
+                "ViewOrder": 1,
+                "Name": "Yakutsk",
+                "Phrase": "Anything can happen in the Mist. \nIt's a place where human imagination becomes reality\u2026",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_029",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 20201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 7,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 28,
+                "ViewOrder": 1,
+                "Name": "Vivienne",
+                "Phrase": "Are there really Mist Monsters that are able to use magic like that?",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 2,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_028",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 0,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 4,
+                        "EnterAction": 1
+                    },
+                    {
+                        "MCharacterId": 35201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 5,
+                        "FacialExpression": 4,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 27,
+                "ViewOrder": 1,
+                "Name": "Paddington",
+                "Phrase": "That was a magical attack. \nIt was meant for us.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_027",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 0,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 5,
+                        "FacialExpression": 4,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 26,
+                "ViewOrder": 1,
+                "Name": "Queensway",
+                "Phrase": "But you know, that Mist was really thick\u2026",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_026",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 10201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 2,
+                        "FacialExpression": 4,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 30,
+                "ViewOrder": 1,
+                "Name": "Yakutsk",
+                "Phrase": "That is what the Phantom Mist really is.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_030",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 20201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 24,
+                "ViewOrder": 1,
+                "Name": "Putra",
+                "Phrase": "I'm alright! All good!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_024",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 24201,
+                        "Position": 1,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 13201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 35201,
+                        "Position": 5,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 4,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 23,
+                "ViewOrder": 1,
+                "Name": "Yoshino",
+                "Phrase": "I'm fine. No sweat.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 16,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_023",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 24201,
+                        "Position": 1,
+                        "Action": 5,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 13201,
+                        "Position": 3,
+                        "Action": 1,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 35201,
+                        "Position": 5,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 4,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 36,
+                "ViewOrder": 1,
+                "Name": "Steel Seeker",
+                "Phrase": "Damn Mist killers, must kill!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 101,
+                        "Position": 3,
+                        "Action": 7,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 51,
+                "ViewOrder": 1,
+                "Name": "Paddington",
+                "Phrase": "Everyone, now's our chance! \nYour attacks should hit him now!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_045",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 0,
+                        "Position": 3,
+                        "Action": 1,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 19,
+                "ViewOrder": 1,
+                "Name": "Yakutsk",
+                "Phrase": "Just get moving! It's urgent! \nSomething crazy is headed our way!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 1,
+                "VoiceFileName": "e_403999305_019",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 20201,
+                        "Position": 3,
+                        "Action": 1,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 18,
+                "ViewOrder": 1,
+                "Name": "Vivienne",
+                "Phrase": "What happened?",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 2,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_018",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 13201,
+                        "Position": 2,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 1,
+                        "EnterAction": 0
+                    },
+                    {
+                        "MCharacterId": 35201,
+                        "Position": 4,
+                        "Action": 0,
+                        "Emotion": 8,
+                        "FacialExpression": 1,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 25,
+                "ViewOrder": 1,
+                "Name": "Queensway",
+                "Phrase": "Oh good, the Conductor is safe as well.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999305_025",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 10201,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            }
+        ],
+        "FirstViewRewords": {
+            "Items": [],
+            "GiftItems": [],
+            "DeletedItemIds": []
+        }
+    },
+    "t": null,
+    "st": "2022-05-18T17:17:47",
+    "cm": null
+}

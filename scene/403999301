@@ -1,0 +1,681 @@
+{
+    "r": {
+        "MSceneId": 403999301,
+        "MSceneDetailViewModel": [
+            {
+                "GroupOrder": 5,
+                "ViewOrder": 1,
+                "Name": "Paddington",
+                "Phrase": "Even if I can't do anything, you can count on me!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999301_005",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": 5,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 0,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 3,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 2,
+                "ViewOrder": 1,
+                "Name": "Paddington",
+                "Phrase": "Great job, conductor. That was a great speech you gave at the ceremony. \nThe Special Steel Squad's morale must have shot through the roof!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999301_002",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 0,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 5,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 7,
+                "ViewOrder": 1,
+                "Name": "Paddington",
+                "Phrase": "That's just a basic explanation, but if you ever get lost be sure to ask me. \nI want to do everything I can for you, sir. Especially since\u2026 I can't really fight.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999301_007",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 0,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 1,
+                "ViewOrder": 1,
+                "Name": "Paddington",
+                "Phrase": "Stopping! Arriving at the St. Iris SSS Garrison!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999301_001",
+                "BackgroundImage": "101802",
+                "BGM": "adv_saintIris",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 0,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 5,
+                        "EnterAction": 1
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 6,
+                "ViewOrder": 1,
+                "Name": "Paddington",
+                "Phrase": "You'll be spending a good deal of your time here in the Garrison with all of us in the SSS. We'll head out by train if there's a mission for us. \nBut when things are normal you'll be our instructor.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999301_006",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 0,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 4,
+                "ViewOrder": 1,
+                "Name": "Paddington",
+                "Phrase": "I'm Paddington and I'll be your assistant conductor! I'm gonna do my best to not tarnish the reputation of St. Iris. \nIf there's anything I can do, I'm at your command.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999301_004",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 0,
+                        "Position": 3,
+                        "Action": 1,
+                        "Emotion": 0,
+                        "FacialExpression": 5,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 3,
+                "ViewOrder": 1,
+                "Name": "Paddington",
+                "Phrase": "Today's actually the official founding of the SSS, so I'd do best to reintroduce myself.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999301_003",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 0,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 16,
+                "ViewOrder": 1,
+                "Name": "Paddington",
+                "Phrase": "Wowie-zowie, I sure just blurted that out! \nPlease don't think I'm just a slut\u2026",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999301_016",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 0,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 5,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 17,
+                "ViewOrder": 1,
+                "Name": "Paddington",
+                "Phrase": "I'll leave how you want to do it up to you. We should do it here so no one else notices. I want to dedicate everything to you, just like all the other Train Knights. This is just another way to prove to you that I'm ready for that.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999301_017",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 0,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 8,
+                "ViewOrder": 1,
+                "Name": "Paddington",
+                "Phrase": "I don't really have any powers. \nMy four little sisters are something exceptional, but I've never been able to do much of anything\u2026",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999301_008",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 0,
+                        "Position": 3,
+                        "Action": 3,
+                        "Emotion": 0,
+                        "FacialExpression": 4,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 15,
+                "ViewOrder": 1,
+                "Name": "Paddington",
+                "Phrase": "Uh-um, sir\u2026 If it's not too much to ask, could you try giving me an iron injection too!? The only power I have is a photographic memory, so I couldn't do much by myself. But I just know I could receive one if we tried!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999301_015",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 0,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 6,
+                        "FacialExpression": 3,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 14,
+                "ViewOrder": 1,
+                "Name": "Paddington",
+                "Phrase": "But, we still have a little time on our hands, don't we?",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999301_014",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 0,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 0,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 18,
+                "ViewOrder": 1,
+                "Name": "Paddington",
+                "Phrase": "But, don't hurt me too much, okay?",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999301_018",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 0,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 6,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 12,
+                "ViewOrder": 1,
+                "Name": "Paddington",
+                "Phrase": "I've dreamed of becoming a conductor since I was a little girl, so I sorta lost myself there\u2026 \nI'm over the moon being able to ride alongside you as your assistant.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999301_012",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 0,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 6,
+                        "FacialExpression": 6,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 11,
+                "ViewOrder": 1,
+                "Name": "Paddington",
+                "Phrase": "Oh! S-sorry, I got a bit carried away there. Must be my nerves!",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999301_011",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 0,
+                        "Position": 3,
+                        "Action": 5,
+                        "Emotion": 0,
+                        "FacialExpression": 1,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 10,
+                "ViewOrder": 1,
+                "Name": "Paddington",
+                "Phrase": "That said, your mother was a decorated war hero. After years of fighting back the Phantom Mist, she designed this train and founded the Special Steel Squad. That makes her one of the most Divine Children we know. It makes sense that you have special powers of your own.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999301_010",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 0,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 8,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 9,
+                "ViewOrder": 1,
+                "Name": "Paddington",
+                "Phrase": "And that's what makes you so amazing, sir! They say that Divine Children of St. Iris are always women. \nThe fact that you wield the power to pilot the train is unprecedented.",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999301_009",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 0,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 1,
+                        "FacialExpression": 8,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            },
+            {
+                "GroupOrder": 13,
+                "ViewOrder": 1,
+                "Name": "Paddington",
+                "Phrase": "But I must say that I am a smidge envious of the other Train Knights. They get their powers to fight through a special procedure called a \"iron injection.\" \nI've always wanted one\u2026",
+                "PhraseFontSize": 2,
+                "PhraseSpeed": 3,
+                "IsPhraseCenter": false,
+                "SpeechMCharacterId": null,
+                "IsSpeakingFlags": 4,
+                "FrameImage": 0,
+                "VoiceFileName": "e_403999301_013",
+                "BackgroundImage": "",
+                "BGM": "",
+                "SE": "",
+                "Effect": null,
+                "BackgroundEffectType": 0,
+                "StandCharacters": [
+                    {
+                        "MCharacterId": 0,
+                        "Position": 3,
+                        "Action": 0,
+                        "Emotion": 0,
+                        "FacialExpression": 6,
+                        "EnterAction": 0
+                    }
+                ],
+                "StillDetail": {
+                    "AnimationName": "",
+                    "AnimationSpeed": null,
+                    "CameraZoomRatio": null,
+                    "CameraPositionX": null,
+                    "CameraPositionY": null,
+                    "CameraWorkDuration": null,
+                    "CameraRotation": null
+                }
+            }
+        ],
+        "FirstViewRewords": {
+            "Items": [],
+            "GiftItems": [],
+            "DeletedItemIds": []
+        }
+    },
+    "t": null,
+    "st": "2022-05-18T17:17:46",
+    "cm": null
+}

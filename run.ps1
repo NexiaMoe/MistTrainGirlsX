@@ -1,0 +1,1 @@
+uvicorn.exe run:app --ssl-keyfile private.key --ssl-certfile certificate.crt --reload --port 443

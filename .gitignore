@@ -1,0 +1,11 @@
+assets/*
+cdn2*
+compare*
+fd-*
+mist/*
+__pycache__/*
+*.mp4
+*.key
+*.cert
+*.crt
+notes.md
