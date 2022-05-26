@@ -1897,8 +1897,7 @@ async def read_item(item):
 
 @app.get("/api/UScenes/{scene}")
 async def read_item(scene):
-    return FileResponse(f"./scene/{scene}", media_type="application/json")
-
+    return FileResponse(f".assets/scene/{scene}", media_type="application/json")
 
 
 @app.get("/api/Users/Tutorial/GetHideFreeTutorialFlags")
