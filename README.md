@@ -50,5 +50,5 @@ If you have any feedback, please reach out to us at [Discord](https://discord.co
 
 ## License
 
-[gpl-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[unlicense](https://github.com/NexiaMoe/MistTrainGirlsX/blob/master/LICENSE.md)
 
