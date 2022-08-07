@@ -11,7 +11,7 @@ import string
 import jwt
 import psycopg2
 from psycopg2.extras import RealDictCursor
-conn = psycopg2.connect("dbname=mist user=postgres password=ajipriy0123")
+conn = psycopg2.connect("dbname=mist user=postgres password=")
 cur = conn.cursor(cursor_factory=RealDictCursor)
 
 
